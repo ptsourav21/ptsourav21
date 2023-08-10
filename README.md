@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Purnendu Talukder</h1>
 <div align = "center"> <img src="https://raw.githubusercontent.com/ptsourav21/ptsourav21/main/Purnendu.png"> </div>
+<h2 align="center"><samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Purnendu Talukder</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h2>
 <h3 align="center">Software Developer | Machine Learning Enthusiasts</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -24,11 +24,18 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ptsourav21&show_icons=true&locale=en" alt="ptsourav21" /></p>
-<p><img  display = "flex" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ptsourav21&" alt="ptsourav21" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsourav21&show_icons=true&locale=en&layout=compact" alt="ptsourav21" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=ptsourav21&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/ptsourav21/ptsourav21/blob/output/github-contribution-grid-snake.svg)
+ <!-- White theme
+ <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptsourav21&show_icons=true&locale=en" alt="ptsourav21" /></p>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsourav21&show_icons=true&locale=en&layout=compact" alt="ptsourav21" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ptsourav21&" alt="ptsourav21" />
+</p>
+-->
+
+<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptsourav21&show_icons=true&locale=en&theme=tokyonight" alt="ptsourav21" /></p>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsourav21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ptsourav21" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ptsourav21&theme=tokyonight" alt="ptsourav21" />
+</p>
