@@ -40,4 +40,4 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ptsourav21&theme=tokyonight" alt="ptsourav21" />
 </p>
 
-![Snake animation](https://github.com/ptsourav21/ptsourav21/blob/output/github-contribution-grid-snake.svg)
+
