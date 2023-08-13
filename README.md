@@ -36,8 +36,8 @@
 
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptsourav21&show_icons=true&locale=en&theme=tokyonight" alt="ptsourav21" /></p>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsourav21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ptsourav21" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ptsourav21&theme=tokyonight" alt="ptsourav21" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsourav21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ptsourav21" />
 </p>
 
 
