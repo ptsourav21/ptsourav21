@@ -1,6 +1,6 @@
 <div align = "center"> <img src="https://raw.githubusercontent.com/ptsourav21/ptsourav21/main/mybg1.png"> </div>
 <h2 align="center"><samp>&gt; Hi there, I'm <a href="https://ptsourav21.github.io" target="_blank">Purnendu Talukder</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h2>
-<h3 align="center">Software Developer | Machine Learning Enthusiasts</h3>
+<h3 align="center">Developer | Machine Learning Enthusiasts</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
