@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ptsourav21](https://github.com/ptsourav21)
 
-- 📫 How to reach me **pt.purnendu@gmail.com**
+- 📫 How to reach me **ptsourav21.github.io**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ptsourav21/](https://www.linkedin.com/in/ptsourav21/)
 
